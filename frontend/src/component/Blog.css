@@ -1,0 +1,34 @@
+.blog-list{
+    text-align: center;
+    margin: 40px;
+    /* background-color: aqua; */
+    padding: 14px;
+}
+.add-new-btn{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.blog-form{
+    margin: 40px;
+    text-align: center;
+    /* background-color: aqua; */
+    padding: 14px;
+}
+
+.err-msg{
+    color: red;
+    font-size: 13px;
+    margin: 10px;
+}
+
+.input-head{
+    font-weight: bold;
+    color: #555463;
+    margin-top: 13px;
+}
+
+.read-btn{
+    width: 160px;
+}
